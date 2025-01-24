@@ -96,7 +96,9 @@ Here are some of the technologies and tools I've worked with:
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhi%20Kamboj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhi-kamboj-407826258/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-abhikamboj2-black?style=for-the-badge&logo=github)](https://github.com/abhikamboj2)
-[![Email](https://img.shields.io/badge/Email-abhikamboj@example.com-red?style=for-the-badge&logo=gmail)](mailto:abhi.skamboj@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-abhi.skamboj@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abhi.skamboj@gmail.com)
 
 Let's collaborate and innovate together! ✨
