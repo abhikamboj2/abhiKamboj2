@@ -6,13 +6,61 @@ I'm a passionate developer with a love for learning and creating impactful proje
 ---
 
 ### 🌟 What I'm Working On
-- **Voting DApp**: A decentralized application to revolutionize secure and transparent voting. You can check out the repository here:
-- [Voting DAPP](https://github.com/abhikamboj2/Voting-DAPP). 
+- **Voting DApp**: A decentralized application to revolutionize secure and transparent voting. You can check out the repository here: [Voting DAPP](https://github.com/abhikamboj2/Voting-DAPP). 
 
 ### 💡 What I've Learned Recently
 - Setting up and managing contract and account contexts.
 - Integrating MetaMask into decentralized applications.
 - Exploring Web3.js and its potential for innovative solutions.
+
+---
+
+### 🚀 Skills and Expertise
+Here are some of the technologies and tools I've worked with:
+
+#### Programming languages ⛰️
+- Solidity
+- JavaScript
+- TypeScript
+- Rust
+
+#### Mobile app development 📱
+- React Native
+
+#### Web development 🌍
+- HTML
+- CSS
+- React
+- Next.js
+- Redux
+- styled-components
+- Sass
+- Tailwind CSS
+- Material-UI
+- Bootstrap
+
+#### Backend development 🌳
+- Node.js
+- Express.js
+- MongoDB
+- SQL
+- Apollo
+
+#### Tools and frameworks 🛠️
+- Git
+- Visual Studio Code
+- Linux
+
+#### Blockchain ⛓️
+- Solidity
+- Web3.js
+- Ethers.js
+- IPFS
+- MetaMask
+- Hardhat
+- Foundry
+- Ethereum
+- Cryptography
 
 ---
 
@@ -35,8 +83,8 @@ I'm a passionate developer with a love for learning and creating impactful proje
 ---
 
 ### 🤝 Let's Connect
-- **LinkedIn**: [Abhi Kamboj](https://www.linkedin.com/in/abhi-kamboj)
-- **GitHub**: [abhikamboj2](https://github.com/abhikamboj2)
-- **Email**: [abhikamboj@example.com](mailto:abhikamboj@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhi%20Kamboj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhi-kamboj)
+[![GitHub](https://img.shields.io/badge/GitHub-abhikamboj2-black?style=for-the-badge&logo=github)](https://github.com/abhikamboj2)
+[![Email](https://img.shields.io/badge/Email-abhikamboj@example.com-red?style=for-the-badge&logo=gmail)](mailto:abhikamboj@example.com)
 
 Let's collaborate and innovate together! ✨
