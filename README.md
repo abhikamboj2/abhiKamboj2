@@ -26,8 +26,6 @@ Here are some of the technologies and tools I've worked with:
 - TypeScript
 - Rust
 
-#### Mobile app development 📱
-- React Native
 
 #### Web development 🌍
 - HTML
