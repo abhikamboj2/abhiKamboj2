@@ -57,6 +57,7 @@ Here are some of the technologies and tools I've worked with:
 - Git
 - Visual Studio Code
 - Linux
+- Postman
 
 #### Blockchain ⛓️
 - Solidity
